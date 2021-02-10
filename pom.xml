@@ -326,18 +326,7 @@ under the License.
         </plugins>
     </build>
     <repositories>
-                <repository>
-                    <id>nexus-fang</id>
-                    <name>Nexus fang</name>
-                    <layout>default</layout>
-                    <url>http://dev.soufun.com:6533/nexus/content/groups/public/</url>
-                    <snapshots>
-                        <enabled>false</enabled>
-                    </snapshots>
-                    <releases>
-                        <enabled>true</enabled>
-                    </releases>
-                </repository>
+                
         <repository>
             <id>nexus-aliyun</id>
             <name>Nexus aliyun</name>
